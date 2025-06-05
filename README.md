@@ -1,1 +1,1 @@
-# Análise de dados de ocorrências obtidos por meio de Web Scraping de sites de notícias na cidade de Bauru# analise-ocorrencias-urbanas
+# Análise de ocorrências urbanas na cidade de Bauru
