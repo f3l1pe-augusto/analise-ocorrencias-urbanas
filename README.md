@@ -8,9 +8,9 @@ Este projeto utiliza técnicas de Ciência de Dados e *Web Scraping* para coleta
 
 ## ✨ Funcionalidades Implementadas
 
-- **Mapa interativo detalhado:** Visualização de ocorrências com marcadores individuais, popups informativos e um painel de filtros avançado.
-- **Mapa de calor:** Geração de um mapa de calor separado que mostra a concentração de **todas** as ocorrências, ideal para uma análise macro dos principais *hotspots* da cidade.
-- **Análise de recorrência:** Um *script* dedicado identifica e mapeia os locais exatos onde tipos de problemas específicos acontecem repetidamente, apontando para questões crônicas.
+- **Mapa interativo detalhado:** Visualização de ocorrências com marcadores individuais, popups informativos e um painel de filtros avançado. ![Mapa Interativo](/images/smart-bauru.png)
+- **Mapa de calor:** Geração de um mapa de calor separado que mostra a concentração de **todas** as ocorrências, ideal para uma análise macro dos principais *hotspots* da cidade. ![Mapa de Calor](/images/mapa-calor.png)
+- **Análise de recorrência:** Um *script* dedicado identifica e mapeia os locais exatos onde tipos de problemas específicos acontecem repetidamente, apontando para questões crônicas. ![Mapa de Recorrência](/images/mapa-recorrencias.png)
 - **Análises específicas:** Exemplos de como analisar os dados para extrair *insights*, como análises sazonais e comparações entre ocorrências de importantes bairros da cidade.
 
 ## 🛠️ Tecnologias Utilizadas
