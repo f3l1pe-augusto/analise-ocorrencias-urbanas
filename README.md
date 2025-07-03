@@ -8,10 +8,10 @@ Este projeto utiliza técnicas de Ciência de Dados e *Web Scraping* para coleta
 
 ## ✨ Funcionalidades Implementadas
 
-- **Mapa interativo detalhado:** Visualização de ocorrências com marcadores individuais, popups informativos e um painel de filtros avançado. ![Mapa Interativo](/images/smart-bauru.png)
-- **Mapa de calor:** Geração de um mapa de calor separado que mostra a concentração de **todas** as ocorrências, ideal para uma análise macro dos principais *hotspots* da cidade. ![Mapa de Calor](/images/mapa-calor.png)
-- **Análise de recorrência:** Um *script* dedicado identifica e mapeia os locais exatos onde tipos de problemas específicos acontecem repetidamente, apontando para questões crônicas. ![Mapa de Recorrência](/images/mapa-recorrencias.png)
-- **Análises específicas:** Exemplos de como analisar os dados para extrair *insights*, como análises sazonais e comparações entre ocorrências de importantes bairros da cidade.
+- **Mapa de ocorrências:** Visualização de ocorrências com marcadores, popups informativos e um painel de filtros avançado com anos e categoria. ![Mapa de ocorrênias](/images/mapa-ocorrencias.png)
+- **Mapa de calor:** Mapa de calor com os mesmos filtros de anos e categorias, ideal para uma análise macro dos principais *hotspots* da cidade. ![Mapa de calor](/images/mapa-calor.png)
+- **Análise de recorrência:** Um *script* dedicado identifica e mapeia os locais exatos onde tipos de problemas específicos acontecem repetidamente, apontando para questões crônicas. ![Mapa de recorrência](/images/mapa-recorrencias.jpeg)
+- **Análises específicas:** Exemplos de como analisar os dados para extrair *insights*, como análises sazonais e comparações entre ocorrências de importantes bairros da cidade. ![Comparação de bairros](/images/comparacao-bairros.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
