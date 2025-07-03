@@ -18,9 +18,9 @@ Este projeto utiliza técnicas de Ciência de Dados e *Web Scraping* para coleta
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - **Linguagem:** Python
-- **Análise e Manipulação de Dados:** Pandas e NumPy
+- **Análise e Manipulação de Dados:** Pandas 
 - **Web Scraping:** BeautifulSoup e Selenium
-- **Mapeamento e Geolocalização:** Folium e GeoPandas
+- **Mapeamento e Geolocalização:** Folium 
 - **Gráficos e Visualizações:** Matplotlib
 - **Ambiente de Desenvolvimento:** PyCharm e Jupyter Notebook
 
