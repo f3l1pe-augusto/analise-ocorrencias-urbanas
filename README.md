@@ -1,6 +1,6 @@
 # 🤖 Smart Bauru
 
-> Um Sistema de Informação Geográfica (SIG) para Mapeamento e Análise de Ocorrências Urbanas na cidade de Bauru–SP.
+> Um Sistema de Informação Geográfica (SIG) para mapeamento e análise de ocorrências urbanas na cidade de Bauru–SP.
 
 Este projeto utiliza técnicas de Ciência de Dados e *Web Scraping* para coletar, processar, analisar e visualizar problemas urbanos, oferecendo uma ferramenta para a formulação de políticas públicas mais eficazes e para o engajamento cívico.
 
@@ -18,11 +18,11 @@ Este projeto utiliza técnicas de Ciência de Dados e *Web Scraping* para coleta
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - **Linguagem:** Python
-- **Análise e Manipulação de Dados:** Pandas, NumPy
-- **Web Scraping:** BeautifulSoup, Selenium
-- **Mapeamento e Geolocalização:** Folium, GeoPandas
+- **Análise e Manipulação de Dados:** Pandas 
+- **Web Scraping:** BeautifulSoup e Selenium
+- **Mapeamento e Geolocalização:** Folium 
 - **Gráficos e Visualizações:** Matplotlib
-- **Ambiente de Desenvolvimento:** PyCharm, Jupyter Notebook
+- **Ambiente de Desenvolvimento:** PyCharm e Jupyter Notebook
 
 ## 🚀 Como Executar o Projeto
 
