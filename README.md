@@ -8,14 +8,14 @@ Este projeto utiliza técnicas de Ciência de Dados e *Web Scraping* para coleta
 
 ---
 
-## Funcionalidades Implementadas
+## Funcionalidades implementadas
 
 - **Mapa de ocorrências:** visualização de ocorrências com marcadores, popups informativos e um painel de filtros avançado com anos e categoria. ![Mapa de ocorrênias](/images/mapa-ocorrencias.png)
 - **Mapa de calor:** mapa de calor com os mesmos filtros de anos e categorias, ideal para uma análise macro dos principais *hotspots* da cidade. ![Mapa de calor](/images/mapa-calor.png)
 - **Análise de recorrência:** um *script* dedicado identifica e mapeia os locais exatos onde tipos de problemas específicos acontecem repetidamente, apontando para questões crônicas. ![Mapa de recorrência](/images/mapa-recorrencias.jpeg)
 - **Análises específicas:** exemplos de como analisar os dados para extrair *insights*, como análises sazonais e comparações entre ocorrências de importantes bairros da cidade. ![Comparação de bairros](/graphics/comparacao-bairros.png)
 
-## Tecnologias Utilizadas
+## Tecnologias utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -26,7 +26,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **Gráficos e Visualizações:** Matplotlib
 - **Ambiente de Desenvolvimento:** PyCharm e Jupyter Notebook
 
-## Como Executar o Projeto
+## Como executar o projeto
 
 Siga os passos abaixo para configurar e executar o ambiente de análise.
 
