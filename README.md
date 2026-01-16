@@ -4,7 +4,7 @@
 >
 > [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16886916.svg)](https://doi.org/10.5281/zenodo.16886916)
 
-Este projeto utiliza técnicas de Ciência de Dados e *Web Scraping* para coletar, processar, analisar e visualizar problemas urbanos, oferecendo uma ferramenta para a formulação de políticas públicas mais eficazes e para o engajamento cívico.
+Este projeto utiliza técnicas de testes automatizados e *Web Scraping* para coletar, processar, analisar e visualizar problemas urbanos, oferecendo uma ferramenta para a formulação de políticas públicas mais eficazes e para o engajamento cívico.
 
 ---
 
